@@ -1,6 +1,5 @@
-<p><img src="https://github-readme-stats.vercel.app/api?username=nespal-se&theme=dark&show_icons=true&locale=en" alt="nespal-se" />  
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nespal-se&theme=dark&show_icons=true&locale=en&layout=compact" alt="nespal-se" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=nespal-se&theme=tokyonight&show_icons=true&locale=en" alt="nespal-se" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nespal-se&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="nespal-se" />
 </p>
 
 <!--
