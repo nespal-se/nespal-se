@@ -1,5 +1,6 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=nespal-se&theme=dark&show_icons=true&locale=en" alt="nespal-se" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nespal-se&theme=dark&show_icons=true&locale=en&layout=compact" alt="nespal-se" />
+</p>
 
 <!--
 **nespal-se/nespal-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
